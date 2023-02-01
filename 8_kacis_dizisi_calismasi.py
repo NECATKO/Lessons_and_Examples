@@ -1,3 +1,10 @@
+#Ters taksim (\)
+
+print('Yarin Antep\'e geliyorum.')
+print("Antep'in bir asil ismi \"Gazianterp\" tir.")
+print(" ")
+
+
 #Satir basi (\n)
 
 print("birinci satir\nikinci satir\nucuncu satir")
