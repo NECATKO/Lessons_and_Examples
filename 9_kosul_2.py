@@ -1,4 +1,4 @@
-#if
+#elif
 
 print("Sacma sapan sayi analiz tool'una hos geldiniz.")
 print(" ")
@@ -13,14 +13,14 @@ print(" ")
 if sayi > 100:
     print("Girdiginiz sayi 100'den buyuktur.")
 
-if sayi > 150:
+elif sayi > 150:
     print("Girdiginiz sayi 150'den buyuktur.")
 
-if sayi == 100:
+elif sayi == 100:
     print("Girdiginiz sayi 100'dur.")
 
-if sayi < 100:
+elif sayi < 100:
     print("Girdiginiz sayi 100'den kucuktur.")
 
-if sayi < 50:
+elif sayi < 50:
     print("Girdiginiz sayi 50'den kucuktur.")
